@@ -1,4 +1,5 @@
 ### Olá, bem vindo ao meu perfil.
+### Estudante na Universidade Federal de Viçosa - MG.
 
 <div align="left">
   <a href="https://github.com/ojuans">
